@@ -20,7 +20,7 @@ Each project includes:
 
 📌 *Analyses 9,216 emergency room visits over 19 months to identify wait-time bottlenecks, peak demand periods, and patient flow challenges.*
 
-👉 **[View Project](./hospital-emergency-visits-analytics/README.md)**
+👉 **[View Project](./[hospital-emergency-visits-analytics/README.md](https://github.com/Bright-Sarfo/hospital-emergency-visits-analytics))**
 
 **Key Focus Areas**
 - Patient wait-time performance  
