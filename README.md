@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio  
+# 📊 My Data Analytics Portfolio  
 **Healthcare & Financial Analytics | Power BI | Excel | DAX | Data Storytelling**
 
 Welcome to my data analytics portfolio.  
@@ -20,7 +20,7 @@ Each project includes:
 
 📌 *Analyses 9,216 emergency room visits over 19 months to identify wait-time bottlenecks, peak demand periods, and patient flow challenges.*
 
-👉 **[View Project](./[hospital-emergency-visits-analytics/README.md](https://github.com/Bright-Sarfo/hospital-emergency-visits-analytics))**
+👉 **[View Project](https://github.com/Bright-Sarfo/hospital-emergency-visits-analytics/blob/main/README.md)**
 
 **Key Focus Areas**
 - Patient wait-time performance  
