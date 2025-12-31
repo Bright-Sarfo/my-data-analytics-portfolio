@@ -36,7 +36,7 @@ Each project includes:
 
 📌 *Evaluates loan portfolio health by separating good vs bad loans, tracking repayments, and identifying credit risk exposure.*
 
-👉 **[View Project](./bank-loan-portfolio-analytics/README.md)**
+👉 **[View Project](https://github.com/Bright-Sarfo/Bank-loan-portfolio-analytics/blob/main/README.md)**
 
 **Key Focus Areas**
 - Loan quality classification  
