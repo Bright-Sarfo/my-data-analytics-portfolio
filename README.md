@@ -1,5 +1,5 @@
 # 📊 My Data Analytics Portfolio  
-**Healthcare & Financial Analytics | Power BI | Excel | DAX | Data Storytelling**
+**Data Analyst Focused on Risk, Systems & Decision Intelligence Across Healthcare, Finance & Energy**
 
 Welcome to my data analytics portfolio.  
 This repository contains end-to-end analytics projects focused on **real-world business problems**, with an emphasis on **decision support, operational efficiency, and measurable impact**.
@@ -43,6 +43,23 @@ Each project includes:
 - Repayment vs funded amount tracking  
 - Month-on-month performance trends  
 - Borrower and geographic risk segmentation  
+
+---
+
+### 🛢 3. Brent Crude Oil Volatility & Risk Analysis
+**Domain:** Energy Economics / Commodity Risk / Time-Series Analysis
+**Tools:** Python, pandas, numpy, matplotlib
+
+📌 Quantifies nearly four decades of Brent crude oil price volatility to examine structural regime shifts, crisis-driven shocks, and market risk dynamics.
+
+👉 **[View Project](https://github.com/Bright-Sarfo/brent-crude-oil-volatility-and-risk-analysis/blob/main/README.md)**
+
+**Key Focus Areas**
+- Log return transformation & volatility estimation
+- Annualised risk measurement (~40% volatility)
+- Crisis-period shock identification
+- Volatility clustering & regime analysis
+- Risk modelling implications for energy markets
 
 ---
 
