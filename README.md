@@ -2,12 +2,12 @@
 **Data Analyst Focused on Risk, Systems & Decision Intelligence Across Healthcare, Finance & Energy**
 
 Welcome to my data analytics portfolio.  
-This repository contains end-to-end analytics projects focused on **real-world business problems**, with an emphasis on **decision support, operational efficiency, and measurable impact**.
+This repository showcases end-to-end analytics projects focused on **measuring risk**, **improving performance**, and **strengthening decision-making** across **healthcare systems**, **financial portfolios**, and **energy markets**.
 
-Each project includes:
+Each project demonstrates:
 - Clear business context  
-- Structured analytical approach  
-- Executive-ready dashboards  
+- Structured analytical methodology  
+- Executive-ready dashboards/outputs  
 - Actionable insights  
 
 ---
